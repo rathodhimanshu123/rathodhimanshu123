@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Himanshu%20Rathod&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Data%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Himanshu%20Rathod&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20Practitioner%20%7C%20Data%20Engineer&descAlignY=58&descSize=20"/>
 
 <a href="https://github.com/rathodhimanshu123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Full+Stack+%26+AI-Powered+Systems;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Data+Engineer;%F0%9F%92%BB+From+React+to+FastAPI+to+ML+Pipelines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Full+Stack+%26+AI-Powered+Systems;%F0%9F%A4%96+AI%2FML+Practitioner+%7C+Data+Engineer;%F0%9F%92%BB+From+React+to+FastAPI+to+ML+Pipelines"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=rathodhimanshu123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -38,7 +38,7 @@ const himanshu = {
     pronouns: "He" | "Him",
     location: "Gujarat, India 🇮🇳",
     education: "B.Tech IT @ CHARUSAT (2023–2027)",
-    roles: ["Full Stack Developer", "AI/ML Engineer", "Data Engineer"],
+    roles: ["Full Stack Developer", "AI/ML Practitioner", "Data Engineer"],
     code: ["JavaScript", "TypeScript", "Python", "C", "C++", "SQL"],
     technologies: {
         frontend:  ["React.js", "Next.js", "TailwindCSS", "Redux"],
@@ -55,7 +55,7 @@ const himanshu = {
 
 <br/>
 
-🚀 **Full Stack + AI/ML + Data Engineer** — I build end-to-end systems that actually work in production  
+🚀 **Full Stack + AI/ML Practitioner + Data Engineer** — I build end-to-end systems that actually work in production  
 🎓 **B.Tech IT @ CHARUSAT** | CGPA: **7.85** | Graduating 2027  
 🏆 **Hackathon Finalist** — Odoo × SPIT (1400+ teams), GDG Cloud Build, Cognizance 2026  
 💡 **250+ problems** solved on LeetCode, HackerRank & CodeChef  
@@ -212,7 +212,7 @@ const himanshu = {
   <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_they_help_you!-FFD700?style=for-the-badge"/>
 </p>
 
-**Let's build something amazing together — Full Stack • AI/ML • Data Engineering**
+**Let's build something amazing together — Full Stack • AI/ML Practitioner • Data Engineering**
 
 </div>
 
