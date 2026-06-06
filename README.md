@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Himanshu%20Rathod&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20Practitioner%20%7C%20Data%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,20&height=220&section=header&text=Himanshu%20Rathod&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20Practitioner%20%7C%20Data%20Engineer&descAlignY=58&descSize=20"/>
 
 <a href="https://github.com/rathodhimanshu123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Full+Stack+%26+AI-Powered+Systems;%F0%9F%A4%96+AI%2FML+Practitioner+%7C+Data+Engineer;%F0%9F%92%BB+From+React+to+FastAPI+to+ML+Pipelines"/>
